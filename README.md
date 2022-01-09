@@ -11,5 +11,5 @@ Usage:
 6. constent is array/nodelist od elements that you want animate
 7. second parametr is boolean. if true its delete first element of given tab/nodelist
   !important:
-    -in all elements you must add "opacity: 0".
-    -you must add css file in app you site.
+    - in all elements you must add "opacity: 0".
+    - you must add css file in app you site.
